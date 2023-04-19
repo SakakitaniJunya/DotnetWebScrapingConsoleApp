@@ -1,0 +1,17 @@
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\DotnetWebScrapingConsoleApp.exe
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\DotnetWebScrapingConsoleApp.deps.json
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\DotnetWebScrapingConsoleApp.runtimeconfig.json
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\DotnetWebScrapingConsoleApp.dll
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\DotnetWebScrapingConsoleApp.pdb
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.AssemblyInfo.cs
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.dll
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\refint\DotnetWebScrapingConsoleApp.dll
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.pdb
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.genruntimeconfig.cache
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\ref\DotnetWebScrapingConsoleApp.dll
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\sakaj\OneDrive - WellBee\1_Develop\9_C#\5_DotnetWebScrapingConsoleApp\DotnetWebScrapingConsoleApp\obj\Debug\net6.0\DotnetWebScrapingConsoleApp.csproj.CopyComplete
